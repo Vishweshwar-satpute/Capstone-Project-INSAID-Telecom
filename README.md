@@ -1,7 +1,7 @@
 # Capstone-Project-INSAID-Telecom
 Capstone Project - INSAID Telecom.
 
-![enter image description here]()
+![enter image description here](https://github.com/Vishweshwar-satpute/Capstone-Project---INSAID-Telecom/blob/main/Telecom.png?raw=true)
 
 This Capstone project was created as a part of the INSAID Capstone EDA projects.
 
